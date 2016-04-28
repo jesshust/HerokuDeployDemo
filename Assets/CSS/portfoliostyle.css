@@ -43,7 +43,7 @@ img {
 
 #navbar {
 	color: #777777; 
-	font-size: 18px; 
+	font-size: 15px; 
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	background: #ffffff;
 	padding: 40px;
@@ -162,13 +162,15 @@ p {
     font-size: 15px;
     margin: 4px 0px; 
 
+
 }
 
 
 form {
     
     margin: 0 auto;
-    width: 550px;  
+    width: 550px; 
+
 }
 
 input {
@@ -193,5 +195,5 @@ footer {
 	padding: 40px;
 	width: 1430px; 
     clear:both;
-
+    postion: fixed;
 }
